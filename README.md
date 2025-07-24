@@ -1,3 +1,3 @@
 # Plant Disease Classfier
 
-Trained CNN model using Kaggle Plant Disease Classfication.
+Trained CNN model using Kaggle Plant Disease Classfication Dataset.
